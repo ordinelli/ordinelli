@@ -5,6 +5,9 @@
   <img src="https://profile-counter.glitch.me/ordinelli/count.svg" />
 </p>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ordinelli/)
+
+
 <!--
 **ordinelli/ordinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
