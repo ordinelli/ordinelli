@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/ordinelli/count.svg" />
 </p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Ahmad%20Sawalqeh-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ordinelli/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Vincent%20Ordinelli-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ordinelli/)
 
 
 <!--
