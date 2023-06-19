@@ -1,4 +1,4 @@
-### Hey there 👋 Welcome to my GitHub!
+<h1 align="center"> Hey there 👋 Welcome to my GitHub! </h1>
 
 <p align="center"> 
   Visitor count<br>
