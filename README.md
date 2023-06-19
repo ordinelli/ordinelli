@@ -19,6 +19,7 @@
 
 📚 ** I’m currently working on ...:** <br>- 
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
+![Squarespace](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 
 <p align="center"> 
   Visitor count<br>
