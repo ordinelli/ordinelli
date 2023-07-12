@@ -20,10 +20,6 @@
 📚 **Working on:** <br>
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ordinelli/count.svg" />
-</p>
 
 <!--
 **ordinelli/ordinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
