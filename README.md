@@ -1,4 +1,4 @@
-<h1 align="center"> Hey there 👋 Welcome to my GitHub! </h1>
+<h1 align="center"> Hey there 👋 My name is Vincent, Welcome to my GitHub! </h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Vincent%20Ordinelli-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/ordinelli/)
 
